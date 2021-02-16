@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 주식회사 마그마큐브
+title: Magmacube
 email: admin@magmacube.studio
 description: >- # this means to ignore newlines until "baseurl:"
- 모바일 게임 개발 기업 마그마큐브 입니다. 
+ 모바일 게임 개발 기업 (주)마그마큐브 입니다. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
