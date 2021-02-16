@@ -4,3 +4,4 @@
 
 layout: home
 ---
+- ![Image Alt 텍스트](/assets/img/logo.png)

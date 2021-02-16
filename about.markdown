@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+- ![Image Alt 텍스트](/assets/img/logo.png)
+
 (주)마그마큐브
 ------------
 모바일 비디오 게임 개발 및 유통 
