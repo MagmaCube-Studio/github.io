@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT US
 permalink: /about/
 ---
 
@@ -8,9 +8,9 @@ permalink: /about/
 
 (주)마그마큐브
 ------------
-모바일 비디오 게임 개발 및 유통 
+작고 느릿하지만 강력한 역량을 가진 모바일 게임 개발사입니다.
 
-이념
+핵심 가치
 ----------- 
 비판 / 전문 / 상생
 
@@ -21,5 +21,6 @@ permalink: /about/
 출시작
 ----------------
 - 에고소드 ( RPG-like Cliker ,  글로벌 150만 다운로드 )
+![Image Alt 텍스트](/assets/img/logo.png)
 [구글 스토어](https://play.google.com/store/apps/details?id=com.betdon.egosword)
 [애플 스토어](https://apps.apple.com/us/app/ego-sword-idle-sword-clicker/id1450371893)
