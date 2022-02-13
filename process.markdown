@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 제도
+title: PROCESS
 permalink: /process/
 ---
 

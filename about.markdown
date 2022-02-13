@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT US
+title: ABOUT
 permalink: /about/
 ---
 
@@ -22,6 +22,5 @@ permalink: /about/
 출시작
 ----------------
 - 에고소드 ( RPG-like Cliker ,  글로벌 150만 다운로드 )
-![Image Alt 텍스트](/assets/img/logo.png)
 [구글 스토어](https://play.google.com/store/apps/details?id=com.betdon.egosword)
 [애플 스토어](https://apps.apple.com/us/app/ego-sword-idle-sword-clicker/id1450371893)
