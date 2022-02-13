@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: (주)마그마큐브
+title: CONTACT
 email: admin@magmacube.studio
 description: 모바일 게임 개발사 (주)마그마큐브 입니다. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,8 +29,6 @@ url: "https://www.magmacube.studio" # the base hostname & protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
-
-asset_url: /assets
 
 # Exclude from processing.
 # The following items will not be processed, by default.
