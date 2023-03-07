@@ -21,7 +21,7 @@
 title: MAGMA CUBE
 email: admin@magmacube.studio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://www.magmacube.studio # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.magmacube.studio" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -29,10 +29,8 @@ theme: minima
 plugins:
   - jekyll-feed
 # Background color
---body-bg: "#585858";
+body-bg: "#585858";
 
-# Text color
---text-color: "#FFFFFF";
 
 
 # Exclude from processing.
