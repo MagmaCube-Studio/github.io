@@ -28,8 +28,15 @@ url: https://www.magmacube.studio # the base hostname & protocol for your site, 
 theme: minima
 plugins:
   - jekyll-feed
-sass:
-  style: compressed
+# Background color
+--body-bg: "#585858";
+
+# Text color
+--text-color: "#FFFFFF";
+
+# Font
+--font-family: "Arial";
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
