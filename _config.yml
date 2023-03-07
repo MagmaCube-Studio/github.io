@@ -28,8 +28,6 @@ url: "https://www.magmacube.studio" # the base hostname & protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
-# Background color
-body-bg: "#585858";
 
 
 

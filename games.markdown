@@ -17,4 +17,4 @@ permalink: /games/
 ![Load](/assets/img/coin_4.png){:width="100%"}
 ![Load](/assets/img/coin_m1.png){:width="100%"}
 ![Load](/assets/img/coin_m2.png){:width="100%"}
-![Load](/assets/img/coin_b.png){:width="100%"}
+![Load](/assets/img/coin_b.png){:width  ="100%"}
