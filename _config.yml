@@ -34,8 +34,6 @@ plugins:
 # Text color
 --text-color: "#FFFFFF";
 
-# Font
---font-family: "Arial";
 
 # Exclude from processing.
 # The following items will not be processed, by default.
