@@ -4,7 +4,6 @@ title: ABOUT
 permalink: /about/
 ---
 
-![Image Alt 텍스트](/assets/img/logo.png)
 
 (주)마그마큐브
 ------------
