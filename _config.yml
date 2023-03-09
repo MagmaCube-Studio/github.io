@@ -1,5 +1,10 @@
 title: MAGMA CUBE
 email: admin@magmacube.studio
+
+author:
+  name: "(주)마그마큐브"
+  email: "admin@magmacube.studio"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.magmacube.studio" # the base hostname & protocol for your site, e.g. http://example.com
 
