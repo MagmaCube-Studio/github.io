@@ -1,4 +1,3 @@
-
 title: MAGMA CUBE
 email: admin@magmacube.studio
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,10 +9,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-analytics:
-  provider: google
-  google:
-    tracking_id : G-6MPZW8YEZG
+
+google_analytics: "G-6MPZW8YEZG"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
