@@ -8,9 +8,11 @@ url: "https://www.magmacube.studio" # the base hostname & protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  skin: dark
+show_excerpts: true
 
-
-google_analytics: "G-6MPZW8YEZG"
+google_analytics: G-6MPZW8YEZG
 
 # Exclude from processing.
 # The following items will not be processed, by default.
