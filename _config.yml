@@ -10,7 +10,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
+analytics:
+  provider: google
+  google:
+    tracking_id : G-6MPZW8YEZG
 
 # Exclude from processing.
 # The following items will not be processed, by default.
