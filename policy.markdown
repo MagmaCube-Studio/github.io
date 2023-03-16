@@ -1,10 +1,9 @@
 ---
----
 layout: page
-title: Privacy Security Policy
-permalink: /Policy/
+title: Privacy-Security-Policy
+permalink: /policy/
 ---
-# 개인정보 처리방침 및 이용약관
+# 개인정보 처리방침 및 이용약관 (Privacy-Security-Policy)
 
 ![privacy-security-policy.png](/assets/img/privacy-security-policy.png)
 
