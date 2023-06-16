@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy-Security-Policy
+title: POLICY
 permalink: /policy/
 ---
 # 개인정보 처리방침 및 이용약관 (Privacy-Security-Policy)
