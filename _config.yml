@@ -14,3 +14,4 @@ minima:
 
 show_excerpts: true
 google_analytics: "G-6MPZW8YEZG"
+markdown: kramdown
